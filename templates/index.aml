@@ -1,0 +1,5 @@
+position [left: 0, top: 0, placement: "absolute"]
+	border [width: 150, height: 50]
+		vstack
+			@bird
+			@pipe
